@@ -1,0 +1,19 @@
+{
+  "name": "curso-apirest",
+  "version": "1.0.0",
+  "description": "Curso de Api Rest con JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erledie/Curso-Apirest.git"
+  },
+  "author": "@erledie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erledie/Curso-Apirest/issues"
+  },
+  "homepage": "https://github.com/Erledie/Curso-Apirest#readme"
+}
